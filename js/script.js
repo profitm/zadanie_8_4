@@ -1,5 +1,6 @@
 // scripts.js
 
 var name = prompt('Jak masz na imię?');
-alert('Hello, ' + name);
-console.log('Hello, ' + name);
+// alert('Hello, ' + name);
+/* console.log('Hello, ' + name);
+here goes further JS script */
